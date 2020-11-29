@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "PoppinsRegular";
+  src: url("../fonts/PoppinsRegular/PoppinsRegular.eot");
+  src: url("../fonts/PoppinsRegular/PoppinsRegular.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/PoppinsRegular/PoppinsRegular.woff") format("woff"),
+  url("../fonts/PoppinsRegular/PoppinsRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "PoppinsSemiBold";
+  src: url("../fonts/PoppinsSemiBold/PoppinsSemiBold.eot");
+  src: url("../fonts/PoppinsSemiBold/PoppinsSemiBold.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/PoppinsSemiBold/PoppinsSemiBold.woff") format("woff"),
+  url("../fonts/PoppinsSemiBold/PoppinsSemiBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "PoppinsMedium";
+  src: url("../fonts/PoppinsMedium/PoppinsMedium.eot");
+  src: url("../fonts/PoppinsMedium/PoppinsMedium.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/PoppinsMedium/PoppinsMedium.woff") format("woff"),
+  url("../fonts/PoppinsMedium/PoppinsMedium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+    font-family: "PoppinsLight";
+    src: url("../fonts/PoppinsLight/PoppinsLight.eot");
+    src: url("../fonts/PoppinsLight/PoppinsLight.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/PoppinsLight/PoppinsLight.woff") format("woff"),
+    url("../fonts/PoppinsLight/PoppinsLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
+@font-face {
+  font-family: "AdobeTextPro";
+  src: url("../fonts/AdobeTextPro/AdobeTextProSemibold.eot");
+  src: url("../fonts/AdobeTextPro/AdobeTextProSemibold.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/AdobeTextPro/AdobeTextProSemibold.woff") format("woff"),
+  url("../fonts/AdobeTextPro/AdobeTextProSemibold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
